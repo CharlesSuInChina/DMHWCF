@@ -27,3 +27,8 @@ Icon
 .Trashes
 *~
 /local/
+/bin/
+/target/
+.classpath
+.project
+.settings/
